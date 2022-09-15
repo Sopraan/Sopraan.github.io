@@ -129,11 +129,11 @@ a:visited {
 
 .cuerpo-grande {
   height: 850px; 
-  background-image: url("./imagenes/Fondo2.png")}
+  background-image: url("./imagenes/Fondo2.png");}
 
   .cuerpo-grande-principal{
     height: 850px; 
-    background-image: url("./imagenes/Fondo4.jpg")
+    background-image: url("./imagenes/Fondo4.jpg");
 
   }
 
